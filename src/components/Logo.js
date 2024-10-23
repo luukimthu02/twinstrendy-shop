@@ -1,5 +1,4 @@
 import React from 'react'
-import '' from 
 
 const Logo = () => {
   return (
